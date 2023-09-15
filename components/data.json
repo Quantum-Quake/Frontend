@@ -1,0 +1,56 @@
+[
+    {
+      "catName": "Stopped by Police",
+      "catDesc": "Learn about your rights when stopped by the police, and how to stay safe.",
+      "id": 4,
+      "catQues": [
+        {
+          "q": "I’ve been stopped by the police in public",
+          "ans": "When stopped by the police in public, it's important to stay calm and cooperate with their requests. You have the right to remain silent and ask if you are free to leave. You can also ask if you are being detained and for what reason. Avoid making sudden movements and keep your hands visible.",
+          "action": ["Call a lawyer", "Stay calm"]
+        },
+        {
+          "q": "I’ve been pulled over by the police",
+          "ans": "If you're pulled over by the police while driving, pull over to a safe location, turn off your engine, and keep your hands on the steering wheel. Provide your license, registration, and insurance when asked. You have the right to remain silent and can ask the reason for the stop.",
+          "action": ["Show your ID", "Cooperate with instructions"]
+        },
+        {
+          "q": "The police are at my door",
+          "ans": "If the police are at your door, you have the right to ask for identification and the reason for their visit. You can choose not to open the door unless they have a warrant. It's best to remain calm and cooperative.",
+          "action": ["Ask for a search warrant", "Stay composed"]
+        },
+        {
+          "q": "I’ve been arrested by the police",
+          "ans": "If you've been arrested, you have the right to remain silent and to an attorney. Do not resist arrest, and do not answer questions without your attorney present. Cooperate with the police during the arrest process.",
+          "action": ["Request an attorney", "Do not resist"]
+        },
+        {
+          "q": "The police violated my rights",
+          "ans": "If you believe your rights have been violated, document the incident as best as you can, including names and badge numbers of the officers involved. Seek legal counsel to understand your options for recourse.",
+          "action": ["Document the incident", "Consult an attorney"]
+        }
+      ]
+    },
+    {
+      "catName": "Your Legal Rights",
+      "catDesc": "Understand your legal rights and responsibilities as a citizen.",
+      "id": 7,
+      "catQues": [
+        {
+          "q": "What are my rights when arrested?",
+          "ans": "When arrested, you have the right to remain silent, the right to an attorney, and the right to a fair trial. Do not answer questions without your attorney present.",
+          "action": ["Invoke your right to silence", "Request an attorney"]
+        },
+        {
+          "q": "Do I have the right to record police officers?",
+          "ans": "In many jurisdictions, you have the right to record police officers in public places as long as you do not interfere with their duties. Check local laws for specific regulations.",
+          "action": ["Know local laws", "Record from a safe distance"]
+        },
+        {
+          "q": "Can the police search my property without a warrant?",
+          "ans": "In general, the police need a warrant to search your property, but there are exceptions. Know your rights and ask if they have a warrant if they request a search.",
+          "action": ["Ask for a warrant", "Understand your rights"]
+        }
+      ]
+    }
+  ]

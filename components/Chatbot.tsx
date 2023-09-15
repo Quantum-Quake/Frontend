@@ -12,8 +12,8 @@ const ChatButton: React.FC = () => {
     cursor: 'pointer',
     boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.2)',
     position: 'fixed',
-    bottom: '220px', // Adjust as needed
-    right: '30px', // Adjust as needed
+    bottom: '12vh', // Adjust as needed
+    right: '5vh', // Adjust as needed
     zIndex: 1000, // Ensure the button is above other content
   };
 
